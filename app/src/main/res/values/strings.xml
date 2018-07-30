@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Resume</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="personal_tab">Name:Vinay Kulkarni(BE.ISE)
+    Father: Malhararao Kulkarni
+    Mother:shanta M Kulkarni
+    Place:Shahapur Yadgir.</string>
+    <string name="education_tab">
+    Primary:ST.Pauls School
+    High school: CBHS shahapur
+    PUC:DDU Independent shahapur
+    Degree:BLDEA's vijaypur</string>
+    <string name="projects_tab">Projects on ANDROID
+    while doing Internship</string>
+    <string name="tab_label1">Personal</string>
+    <string name="tab_label2">Education</string>
+    <string name="tab_label3">Projects</string>
+</resources>
